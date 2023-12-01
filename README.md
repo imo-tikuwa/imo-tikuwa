@@ -96,6 +96,6 @@
 </p>
 
 <h3 align="left">Other:</h3>
-<p align="left">
+
 [Blog](https://blog.imo-tikuwa.com/) / [Qiita](https://qiita.com/imo_tikuwa)
-</p>
+
