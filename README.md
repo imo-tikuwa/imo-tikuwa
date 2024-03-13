@@ -7,10 +7,12 @@
 [![](https://raw.githubusercontent.com/imo-tikuwa/imo-tikuwa/master/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/imo-tikuwa/imo-tikuwa/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/imo-tikuwa/imo-tikuwa/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imo_tikuwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imo_tikuwa" height="30" width="40" /></a>
-</p>
+<h3 align="left">Deployed GitHub Pages:</h3>
+
+- [シャニマスのノウハウブックを管理するツール](https://imo-tikuwa.github.io/shinycolors-step-knowhow-manager-site/)
+- [Vue3&Bootstrap5 Composable Examples.](https://imo-tikuwa.github.io/vue3-bootstrap5-composables/)
+- [This is Vue3 & Bootstrap5 Examples.](https://imo-tikuwa.github.io/vue3-plugin-dev-study-used-demo/)
+- [風来のシレン6 値段識別ツール](https://imo-tikuwa.github.io/shiren6-price-helper-site/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Upward ordered by proficiency.</p>
@@ -93,6 +95,11 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/>
   </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/imo_tikuwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imo_tikuwa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Other:</h3>
