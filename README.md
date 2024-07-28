@@ -14,6 +14,11 @@
 - [This is Vue3 & Bootstrap5 Examples.](https://imo-tikuwa.github.io/vue3-plugin-dev-study-used-demo/)
 - [風来のシレン6 値段識別ツール](https://imo-tikuwa.github.io/shiren6-price-helper-site/)
 
+<h3 align="left">Deployed GitHub Packages:</h3>
+
+- [nuxt-modules-supabase](https://github.com/imo-tikuwa/nuxt-modules-supabase/pkgs/npm/nuxt-modules-supabase)
+  - [@nuxtjs/supabase](https://supabase.nuxtjs.org/)モジュールをフォークしBunで使えるよう微修正したモジュールです
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Upward ordered by proficiency.</p>
 <p align="left">
