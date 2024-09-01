@@ -19,6 +19,16 @@
 - [nuxt-modules-supabase](https://github.com/imo-tikuwa/nuxt-modules-supabase/pkgs/npm/nuxt-modules-supabase)
   - [@nuxtjs/supabase](https://supabase.nuxtjs.org/)モジュールをフォークしBunで使えるよう微修正したモジュールです
 
+<h3 align="left">Deployed Mobile Apps:</h3>
+
+- [株やFXの資産管理アプリ StockPerformance](https://play.google.com/store/apps/details?id=com.imo_tikuwa.stock_performance_flutter&pli=1)
+  - 株やFXの資産を日々記録することでチャートやデータテーブルでの資産推移を可視化することができるアプリです
+
+<h3 align="left">Deployed Chrome Extensions:</h3>
+
+- [Qiita Organization単位の一括ミュートツール](https://chromewebstore.google.com/detail/eomgfbdbchnggnndnnlmpnbefddkfihp?hl=ja&authuser=0)
+  - qiita.com の特定の Organization に所属するメンバーを一括ミュート/ミュート解除できるブラウザ拡張です
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Upward ordered by proficiency.</p>
 <p align="left">
