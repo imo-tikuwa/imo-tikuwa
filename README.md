@@ -28,6 +28,8 @@
 
 - [Qiita Organization単位の一括ミュートツール](https://chromewebstore.google.com/detail/eomgfbdbchnggnndnnlmpnbefddkfihp?hl=ja&authuser=0)
   - qiita.com の特定の Organization に所属するメンバーを一括ミュート/ミュート解除できるブラウザ拡張です
+- [Simple Aquarium](https://chromewebstore.google.com/detail/aobfehbikknibpmcpljhkoeokemdbeij?hl=ja&authuser=0)
+  - Chromeのサイドパネルにシンプルなアクアリウムを構築するブラウザ拡張です
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Upward ordered by proficiency.</p>
