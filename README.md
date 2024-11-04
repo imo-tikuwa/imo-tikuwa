@@ -26,12 +26,14 @@
 
 <h3 align="left">Deployed Chrome Extensions:</h3>
 
-- [Qiita Organization単位の一括ミュートツール](https://chromewebstore.google.com/detail/eomgfbdbchnggnndnnlmpnbefddkfihp?hl=ja&authuser=0)
+- [Qiita Organization単位の一括ミュートツール](https://chromewebstore.google.com/detail/qiita-organization%E5%8D%98%E4%BD%8D%E3%81%AE%E4%B8%80%E6%8B%AC%E3%83%9F%E3%83%A5/eomgfbdbchnggnndnnlmpnbefddkfihp?hl=ja&authuser=0)
   - qiita.com の特定の Organization に所属するメンバーを一括ミュート/ミュート解除できるブラウザ拡張です
-- [Simple Aquarium](https://chromewebstore.google.com/detail/aobfehbikknibpmcpljhkoeokemdbeij?hl=ja&authuser=0)
+- [Simple Aquarium](https://chromewebstore.google.com/detail/simple-aquarium/aobfehbikknibpmcpljhkoeokemdbeij?hl=ja&authuser=0)
   - Chromeのサイドパネルにシンプルなアクアリウムを構築するブラウザ拡張です
-- [Bookmarks Health Checker](https://chromewebstore.google.com/detail/emhjefkeiinkolfpiklgjahdffjpapmf?hl=ja&authuser=0)
+- [Bookmarks Health Checker](https://chromewebstore.google.com/detail/bookmarks-health-checker/emhjefkeiinkolfpiklgjahdffjpapmf?hl=ja&authuser=0)
   - Chromeのブックマークがリンク切れを起こしていないかをチェックすることができるブラウザ拡張です
+- [Touhou Local Scoreboards](https://chromewebstore.google.com/detail/touhou-local-scoreboards/iaaignablmnnceehbdfbclcbilhpilcn?hl=ja&authuser=0)
+  - 東方Projectの原作シューティングゲームのリプレイデータを管理することができるブラウザ拡張です
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">Upward ordered by proficiency.</p>
