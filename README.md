@@ -13,6 +13,7 @@
 - [Vue3&Bootstrap5 Composable Examples.](https://imo-tikuwa.github.io/vue3-bootstrap5-composables/)
 - [This is Vue3 & Bootstrap5 Examples.](https://imo-tikuwa.github.io/vue3-plugin-dev-study-used-demo/)
 - [風来のシレン6 値段識別ツール](https://imo-tikuwa.github.io/shiren6-price-helper-site/)
+- [AWS Cognito認証デモ](https://imo-tikuwa.github.io/cognito-demo/)
 
 <h3 align="left">Deployed GitHub Packages:</h3>
 
